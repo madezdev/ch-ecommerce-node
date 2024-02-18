@@ -1,0 +1,1 @@
+correr el programa como npm start
